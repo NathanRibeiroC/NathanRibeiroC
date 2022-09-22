@@ -4,7 +4,7 @@
 </h3>
 
 <h5 align="center">
-  Profile Translation
+  Profile Translation (I'am still fixing this part :construction: :sweat_smile:)
 </h5>
 <h5 align="center">
     <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="15">
