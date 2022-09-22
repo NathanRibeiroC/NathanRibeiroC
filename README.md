@@ -1,24 +1,17 @@
-<table>
-  <tr>
-    <th align="center">
-    <h3 align="center">
-  Welcome to Nathan Ribeiro's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-    </th>
-    <th></th>
-  </tr>
-</table>
-
-<!--
 <h3 align="center">
   Welcome to Nathan Ribeiro's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
--->
 
 <h5 align="center">
-  Translations
+  Profile Translation
+</h5>
+<h5 align="center">
+    <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="15">
+    <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="15">
+    <img src="https://flagicons.lipis.dev/flags/4x3/re.svg" width="15">
+    <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="15">
+    <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width="15">
 </h5>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
