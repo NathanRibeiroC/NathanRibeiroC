@@ -16,7 +16,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software Development;Test Driven Development;Clean Code;Always%20Learning%20New%20Things💡;Simplicity%20Is%20The%20Ultimate %20Sophistication&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software Development;Test Driven Development;Clean Code;Always%20Learning%20New%20Things💡;Simplicity%20Is%20The%20Ultimate %20Sophistication&font=Fira%20Code&center=true&width=600&height=45&color=50C878&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/NathanRibeiroC/REACT-FEATURES"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=REACT-FEATURES&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="REACT-FEATURES"></a>
-  <a href="https://github.com/NathanRibeiroC/FRONTEND-REFERENCE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=FRONTEND-REFERENCE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+  <a href="https://github.com/NathanRibeiroC/REACT-FEATURES"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=REACT-FEATURES&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="REACT-FEATURES"></a>
+  <a href="https://github.com/NathanRibeiroC/FRONTEND-REFERENCE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=FRONTEND-REFERENCE&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
 
 <p align="left">
   <a href="https://github.com/NathanRibeiroC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
