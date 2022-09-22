@@ -39,10 +39,6 @@ For
    <a href="https://github.com/NathanRibeiroC/micro-frontends"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=micro-frontends&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
    <a href="https://github.com/NathanRibeiroC/scss-lint"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=scss-lint&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
 
-<p align="left">
-  <a href="https://github.com/NathanRibeiroC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ## 📘 Frontend Repos
 <p align="left">
   <a href="https://github.com/NathanRibeiroC/REACT-FEATURES"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=REACT-FEATURES&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="REACT-FEATURES"></a>
