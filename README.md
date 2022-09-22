@@ -19,6 +19,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software Development;Test Driven Development;Clean Code;Always%20Learning%20New%20Things💡;Simplicity%20Is%20The%20Ultimate %20Sophistication&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
+<p align="center">
+<img src="https://media0.giphy.com/media/nJ2UiWBL5UyX6anGIN/giphy.gif?cid=ecf05e47uxrrom1nw2w9fubcf49f27dxhssm9didirwcdvbx&rid=giphy.gif&ct=s" width="100">
+</p>
+
 ## 📘 Frontend repos
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
