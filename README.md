@@ -50,7 +50,7 @@
   <a href="https://github.com/NathanRibeiroC/FRONTEND-REFERENCE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=FRONTEND-REFERENCE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/NathanRibeiroC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 📕 Top projects I've contributed to
