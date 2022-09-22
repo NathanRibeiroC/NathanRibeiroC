@@ -29,12 +29,21 @@ For
 <img src="https://media0.giphy.com/media/nJ2UiWBL5UyX6anGIN/giphy.gif?cid=ecf05e47uxrrom1nw2w9fubcf49f27dxhssm9didirwcdvbx&rid=giphy.gif&ct=s" width="100">
 </p>
 
-## :notebook_with_decorative_cover: Forked Repos
+## 📔 Forked Repos
+
+<p align="left">
+  <a href="https://github.com/NathanRibeiroC/graphql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=graphql&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="REACT-FEATURES"></a>
+  <a href="https://github.com/NathanRibeiroC/react-redux"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=react-redux&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+   <a href="https://github.com/NathanRibeiroC/webpack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=webpack&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+   <a href="https://github.com/NathanRibeiroC/typescript-eslint"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=typescript-eslint&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+   <a href="https://github.com/NathanRibeiroC/micro-frontends"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=micro-frontends&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+   <a href="https://github.com/NathanRibeiroC/scss-lint"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=scss-lint&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+
+<p align="left">
+  <a href="https://github.com/NathanRibeiroC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 ## 📘 Frontend Repos
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/NathanRibeiroC/REACT-FEATURES"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=REACT-FEATURES&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="REACT-FEATURES"></a>
   <a href="https://github.com/NathanRibeiroC/FRONTEND-REFERENCE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=FRONTEND-REFERENCE&theme=react&bg_color=1F222E&title_color=50C878F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
