@@ -51,7 +51,7 @@
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/NathanRibeiroC/Appium"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=Appium&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Appium"></a>
+  <a href="https://github.com/NathanRibeiroC/Appium"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NathanRibeiroC&repo=Appium&theme=react&bg_color=1F222E&title_color=80cd32&hide_border=true&icon_color=F8D866" alt="Appium"></a>
   <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
   <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="simple-icons"></a>
   <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="discord.py"></a>
