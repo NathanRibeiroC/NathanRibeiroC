@@ -94,7 +94,11 @@ For
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/static/v1?message=Cucumber&logo=Jupyter&labelColor=F37626&color=F37626&logoColor=white&label=%20&style=plastic"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/static/v1?message=Jupyter&logo=Jupyter&labelColor=F37626&color=F37626&logoColor=white&label=%20&style=plastic"></a>
+         <a href="#"><img alt="Anaconda" src="https://img.shields.io/static/v1?message=Anaconda&logo=Anaconda&labelColor=44A833&color=44A833&logoColor=white&label=%20&style=plastic"></a>
+           <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?message=Yarn&logo=Yarn&labelColor=2C8EBB&color=2C8EBB&logoColor=white&label=%20&style=plastic"></a>
+             <a href="#"><img alt="Npm" src="https://img.shields.io/static/v1?message=Npm&logo=npm&labelColor=CB3837&color=CB3837&logoColor=white&label=%20&style=plastic"></a>
+               <a href="#"><img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -111,6 +115,8 @@ For
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+               <a href="#"><img alt="Redis" src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=plastic"></a>
+                 <a href="#"><img alt="Github" src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=181717&color=181717&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
 ### 💻 Software and tools
