@@ -81,6 +81,7 @@ For
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+     <img alt="Cucumber" src="https://img.shields.io/static/v1?message=Cucumber&logo=Cucumber&labelColor=23D96C&color=23D96C&logoColor=white&label=%20&style=plastic">
 </p>
 
 ### 🧰 Frameworks and libraries
