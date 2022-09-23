@@ -98,25 +98,20 @@ For
          <a href="#"><img alt="Anaconda" src="https://img.shields.io/static/v1?message=Anaconda&logo=Anaconda&labelColor=44A833&color=44A833&logoColor=white&label=%20&style=plastic"></a>
            <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?message=Yarn&logo=Yarn&labelColor=2C8EBB&color=2C8EBB&logoColor=white&label=%20&style=plastic"></a>
              <a href="#"><img alt="Npm" src="https://img.shields.io/static/v1?message=Npm&logo=npm&labelColor=CB3837&color=CB3837&logoColor=white&label=%20&style=plastic"></a>
-               <a href="#"><img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
                <a href="#"><img alt="Redis" src="https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=DC382D&color=DC382D&logoColor=white&label=%20&style=plastic"></a>
-                 <a href="#"><img alt="Github" src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=181717&color=181717&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
 ### 💻 Software and tools
@@ -144,4 +139,5 @@ For
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+                   <a href="#"><img alt="Github" src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=181717&color=181717&logoColor=white&label=%20&style=plastic"></a>
 </p>
