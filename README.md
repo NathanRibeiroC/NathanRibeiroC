@@ -3,17 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h5 align="center">
-  Profile Translation (I'am still fixing this part :construction: :sweat_smile:)
-</h5>
-<h5 align="center">
-    <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="15">
-    <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="15">
-    <img src="https://flagicons.lipis.dev/flags/4x3/re.svg" width="15">
-    <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="15">
-    <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" width="15">
-</h5>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software Development;Test Driven Development;Clean Code;Always%20Learning%20New%20Things💡;Simplicity%20Is%20The%20Ultimate %20Sophistication&font=Fira%20Code&center=true&width=600&height=45&color=50C878&vCenter=true&size=22&pause=1000"></a>
