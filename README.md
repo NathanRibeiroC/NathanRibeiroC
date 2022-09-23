@@ -1,5 +1,7 @@
 <h3 align="center">
-  Welcome to Nathan Ribeiro's profile!
+  Welcome to Nathan Ribeiro's
+  <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="15"> 
+  profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
