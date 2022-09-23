@@ -81,7 +81,7 @@ For
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-     <a href="#"><img alt="Cucumber" src="https://img.shields.io/static/v1?message=Jupyter&logo=Cucumber&labelColor=23D96C&color=23D96C&logoColor=white&label=%20&style=plastic"></a>
+     <a href="#"><img alt="Cucumber" src="https://img.shields.io/static/v1?message=Cucumber&logo=Cucumber&labelColor=23D96C&color=23D96C&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -99,6 +99,8 @@ For
            <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?message=Yarn&logo=Yarn&labelColor=2C8EBB&color=2C8EBB&logoColor=white&label=%20&style=plastic"></a>
              <a href="#"><img alt="Npm" src="https://img.shields.io/static/v1?message=Npm&logo=npm&labelColor=CB3837&color=CB3837&logoColor=white&label=%20&style=plastic"></a>
                <a href="#"><img alt="EsLint" src="https://img.shields.io/static/v1?message=EsLint&logo=EsLint&labelColor=4B32C3&color=4B32C3&logoColor=white&label=%20&style=plastic"></a>
+                 <a href="#"><img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=plastic"></a>
+                   <a href="#"><img alt="Selenium" src="https://img.shields.io/static/v1?message=Selenium&logo=Selenium&labelColor=43B02A&color=43B02A&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
