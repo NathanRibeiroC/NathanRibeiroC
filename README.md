@@ -127,6 +127,7 @@ For
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+        <a href="#"><img alt="Figma" src="https://img.shields.io/static/v1?message=Figma&logo=Figma&labelColor=F24E1E&color=F24E1E&logoColor=white&label=%20&style=plastic"></a>
                    <a href="#"><img alt="Github" src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=181717&color=181717&logoColor=white&label=%20&style=plastic"></a>
                      <a href="#"><img alt="Jira" src="https://img.shields.io/static/v1?message=Jira&logo=Jira&labelColor=0052CC&color=0052CC&logoColor=white&label=%20&style=plastic"></a>
                        <a href="#"><img alt="Confluence" src="https://img.shields.io/static/v1?message=Confluence&logo=Confluence&labelColor=172B4D&color=172B4D&logoColor=white&label=%20&style=plastic"></a>
