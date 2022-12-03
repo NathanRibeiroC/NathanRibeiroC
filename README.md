@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-For  
-<img src="https://flagicons.lipis.dev/flags/4x3/ua.svg" width="15">  
-:fist_raised:
+Feel free to visit my public repositories  
 </p>
 
 <p align="center">
