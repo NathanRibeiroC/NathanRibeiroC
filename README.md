@@ -40,11 +40,12 @@ Feel free to visit my public repositories
      <a href="#"><img alt="Cucumber" src="https://img.shields.io/static/v1?message=Cucumber&logo=Cucumber&labelColor=23D96C&color=23D96C&logoColor=white&label=%20&style=plastic"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks, libraries and build
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/-Jest-99425B?logo=Jest&logoColor=white"></a>
+      <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Vite-916BFE?logo=Vite&logoColor=white"></a>
       <a href="#"><img alt="React Testing Library" src="https://img.shields.io/badge/-React Testing Library-F84241?logo=testing-library&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
