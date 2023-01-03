@@ -46,6 +46,8 @@ Feel free to visit my public repositories
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/-Jest-99425B?logo=Jest&logoColor=white"></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Vite-916BFE?logo=Vite&logoColor=white"></a>
+        <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Conventional Commits-FB5E80?logo=conventionalcommits&logoColor=white"></a>
+        <a href="#"><img alt="Vitest" src="https://img.shields.io/badge/-Vitest-729B1B?logo=Vitest&logoColor=white"></a>
       <a href="#"><img alt="React Testing Library" src="https://img.shields.io/badge/-React Testing Library-F84241?logo=testing-library&logoColor=white"></a>
         <a href="#"><img alt="cra" src="https://img.shields.io/badge/-CRA-09D3AC?logo=create-react-app&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
