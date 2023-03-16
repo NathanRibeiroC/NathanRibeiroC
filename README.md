@@ -56,6 +56,7 @@ Feel free to visit my public repositories
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=%764ABC"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/static/v1?message=Jupyter&logo=Jupyter&labelColor=F37626&color=F37626&logoColor=white&label=%20&style=plastic"></a>
          <a href="#"><img alt="Anaconda" src="https://img.shields.io/static/v1?message=Anaconda&logo=Anaconda&labelColor=44A833&color=44A833&logoColor=white&label=%20&style=plastic"></a>
            <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?message=Yarn&logo=Yarn&labelColor=2C8EBB&color=2C8EBB&logoColor=white&label=%20&style=plastic"></a>
