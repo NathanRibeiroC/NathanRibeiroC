@@ -43,7 +43,6 @@ Feel free to visit my public repositories
 ### 🧰 Frameworks, libraries and build
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/-Jest-99425B?logo=Jest&logoColor=white"></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Vite-916BFE?logo=Vite&logoColor=white"></a>
         <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Conventional Commits-FB5E80?logo=conventionalcommits&logoColor=white"></a>
@@ -85,6 +84,7 @@ Feel free to visit my public repositories
 ### 💻 Software and tools
 
 <p>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-003F8C?logo=Docker&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="WSL2" src="https://img.shields.io/badge/WSL2-000000.svg?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
