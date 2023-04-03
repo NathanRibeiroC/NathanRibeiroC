@@ -18,6 +18,36 @@ Feel free to visit my public repositories
 <img src="https://media0.giphy.com/media/nJ2UiWBL5UyX6anGIN/giphy.gif?cid=ecf05e47uxrrom1nw2w9fubcf49f27dxhssm9didirwcdvbx&rid=giphy.gif&ct=s" width="100">
 </p>
 
+## :card_index_dividers: A little bit about me
+
+```json
+{
+  "currentlyWorkingOn": "This is only a test",
+  "currentlyLearning": [
+    "This is only a test",
+    "This is only a test"
+  ],
+  "linkedIn": "https://www.linkedin.com",
+  "askMeAbout": [
+    "React",
+    "Next",
+    "Functional Programming",
+    "Vite",
+    "Container Orchestration",
+    "Docker",
+    "Kubernetes"
+  ],
+  "additionalInformation": [
+    "I like to always follow the best development practices",
+    "I improve the performance and quality of the app so that it is better every day",
+    "I'm dedicated to always providing the best user experience",
+    "I worked as a mentor and project reviewer at Udacity",
+    "I like working with UI/UX and designing products and flows",
+    "I'm always learning"
+  ]
+}
+```
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
