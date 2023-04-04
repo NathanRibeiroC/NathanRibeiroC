@@ -31,7 +31,8 @@ Feel free to visit my public repositories
     "Vite",
     "Container Orchestration",
     "Docker",
-    "Kubernetes"
+    "Kubernetes",
+    "12 Factors App Methodology"
   ],
   "additionalInformation": [
     "I like to always follow the best development practices",
