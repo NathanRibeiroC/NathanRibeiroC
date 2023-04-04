@@ -41,7 +41,7 @@ Feel free to visit my public repositories
     "I like to always follow the best development practices",
     "I improve the performance and quality of the app so that it is better every day",
     "I'm dedicated to always providing the best user experience",
-    "I worked as a mentor and project reviewer at Udacity",
+    "This is only a test",
     "I like working with UI/UX and designing products and flows",
     "I'm always learning"
   ]
