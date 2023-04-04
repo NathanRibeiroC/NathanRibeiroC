@@ -14,10 +14,6 @@
 Feel free to visit my public repositories  
 </p>
 
-<p align="center">
-<img src="https://media0.giphy.com/media/nJ2UiWBL5UyX6anGIN/giphy.gif?cid=ecf05e47uxrrom1nw2w9fubcf49f27dxhssm9didirwcdvbx&rid=giphy.gif&ct=s" width="100">
-</p>
-
 ## :card_index_dividers: A little bit about me
 
 ```json
