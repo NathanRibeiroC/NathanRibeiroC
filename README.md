@@ -72,6 +72,7 @@ Feel free to visit my public repositories
 <p>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/-Jest-99425B?logo=Jest&logoColor=white"></a>
       <a href="#"><img alt="Vite" src="https://img.shields.io/badge/-Vite-916BFE?logo=Vite&logoColor=white"></a>
+            <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-3B3C38?logo=Prettier&logoColor=white"></a>
             <a href="#"><img alt="Babel" src="https://img.shields.io/badge/-Babel-3B3C38?logo=Babel&logoColor=F5DA55"></a>
         <a href="#"><img alt="Vitest" src="https://img.shields.io/badge/-Vitest-729B1B?logo=Vitest&logoColor=white"></a>
       <a href="#"><img alt="React Testing Library" src="https://img.shields.io/badge/-React Testing Library-F84241?logo=testing-library&logoColor=white"></a>
